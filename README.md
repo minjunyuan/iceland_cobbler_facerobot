@@ -24,13 +24,11 @@
 - 关键运动副或连杆机构说明
 - 设计取舍，例如空间限制、强度、安装方式、维护方式
 
-图片示例：
-
-```md
-![整体机构前视图](images/整体机构前.png)
-![整体机构侧视图](images/整体机构侧.png)
-![嘴巴机构侧视图](images/嘴巴机构侧.png)
-```
+<p>
+  <img src="images/整体机构前.png" width="32%" alt="整体机构前视图">
+  <img src="images/整体机构侧.png" width="32%" alt="整体机构侧视图">
+  <img src="images/嘴巴机构侧.png" width="32%" alt="嘴巴机构侧视图">
+</p>
 
 ## 2. 外壳设计
 
@@ -44,13 +42,11 @@
 - 外壳安装点、磁吸/螺丝/卡扣等固定方式
 - Blender 或其他软件中的外形调整过程
 
-图片示例：
-
-```md
-![整体机构带壳前视图](images/整体机构前带壳.png)
-![整体机构带壳侧视图](images/整体机构侧带壳.png)
-![Blender 调整过程](images/blender1.png)
-```
+<p>
+  <img src="images/整体机构前带壳.png" width="32%" alt="整体机构带壳前视图">
+  <img src="images/整体机构侧带壳.png" width="32%" alt="整体机构带壳侧视图">
+  <img src="images/blender1.png" width="32%" alt="Blender 调整过程">
+</p>
 
 ## 3. 硅胶面具
 
@@ -64,13 +60,11 @@
 - 面具和嘴部/眼部区域的避让
 - 面具安装到机器人后的效果
 
-图片示例：
-
-```md
-![内模具](images/内模具.png)
-![外模具](images/外模具.png)
-![整体机构带壳带皮前视图](images/整体机构前带壳带皮.png)
-```
+<p>
+  <img src="images/内模具.png" width="32%" alt="内模具">
+  <img src="images/外模具.png" width="32%" alt="外模具">
+  <img src="images/整体机构前带壳带皮.png" width="32%" alt="整体机构带壳带皮前视图">
+</p>
 
 ## 4. STL 文件
 
